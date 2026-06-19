@@ -1,6 +1,6 @@
 # hospital-emergency-room-analysis
 🏥 Hospital Emergency Room Dashboard (Excel Project)
-![Dashboard](https://github.com/faisalmandol/hospital-emergency-room-analysis/blob/main/Hospital%20Emergency%20Room%20Dashboard.xlsx)
+![Dashboard_Excel](https://github.com/faisalmandol/hospital-emergency-room-analysis/blob/main/Hospital%20Emergency%20Dashboard.png)
 
 This project focuses on analyzing Hospital Emergency Room data and transforming raw information into meaningful insights using Microsoft Excel.
 
